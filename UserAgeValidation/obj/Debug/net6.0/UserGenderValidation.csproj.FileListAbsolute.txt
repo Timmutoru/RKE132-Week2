@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.exe
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.deps.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\refint\UserGenderValidation.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation\obj\Debug\net6.0\ref\UserGenderValidation.dll

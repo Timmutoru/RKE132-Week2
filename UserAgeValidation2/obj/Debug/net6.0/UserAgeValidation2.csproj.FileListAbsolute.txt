@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.exe
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.deps.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\refint\UserAgeValidation2.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week2\UserAgeValidation2\obj\Debug\net6.0\ref\UserAgeValidation2.dll
